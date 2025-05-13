@@ -1,0 +1,20 @@
+{
+  "name": "DoggyTube",
+  "short_name": "DoggyTube",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#FF0000",
+  "icons": [
+    {
+      "src": "doggytube-icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "doggytube-icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
